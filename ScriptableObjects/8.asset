@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ec1496f92ff7eb46920981556ebb059, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  question: "Bir Kasedeki 27 Kaju F\u0131st\u0131\u011F\u0131n\u0131n 9'u Hari\xE7
+    Hepsini Yerseniz Ka\xE7 Kaju Kal\u0131r?"
+  answers:
+  - 18
+  - 9
+  - 27
+  - 36
+  correctAnswer: 2
+  timeValue: 30

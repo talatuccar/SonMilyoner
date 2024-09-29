@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 457824ea3a6095b419b3b862d1c8c2f6, type: 3}
+  m_Name: AudioDataSo
+  m_EditorClassIdentifier: 
+  wrongSFX: {fileID: 8300000, guid: 4be053f195b0c7440a4792555721cb75, type: 3}
+  trueSFX: {fileID: 8300000, guid: 570c07d97851ec24782e794ab8798ffd, type: 3}
+  TimeIsUpSFX: {fileID: 8300000, guid: 8c5a96698fe523d46be26cc821c142b6, type: 3}
+  GameStartSFX: {fileID: 8300000, guid: 4d839a59b458e184e85664509191ceaa, type: 3}
+  HalfJokerSFX: {fileID: 8300000, guid: 192159e9dd978434aa9ccee000e0bb7f, type: 3}
+  EasyAskSFX: {fileID: 8300000, guid: 6e4baf8cb40455046b0ca90fb8c08bdf, type: 3}
+  HardAskSFX: {fileID: 8300000, guid: 9ebc617ddb69b5e498e229eaff1e4109, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ec1496f92ff7eb46920981556ebb059, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  question: "Bir \xE7ikolata ve bir sak\u0131z\u0131n toplam fiyat\u0131n\u0131n
+    11 lira oldu\u011Fu markette \xE7ikolata sak\u0131zdan 10 lira daha pahal\u0131ysa
+    sak\u0131z\u0131n fiyat\u0131 nedir?"
+  answers:
+  - "50 Kuru\u015F\t"
+  - 1 Lira
+  - 2 Lira
+  - 2.5 Lira
+  correctAnswer: 1
+  timeValue: 45
