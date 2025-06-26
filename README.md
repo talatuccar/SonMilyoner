@@ -1,6 +1,6 @@
 # SonMilyoner
 it is a quiz game  
-WebGL links
+WebGL links  
 Turkish Version  
 https://play.unity.com/en/games/c4ec810b-1b5e-47c5-81fb-cfc83648a5a3/son-milyoner  
 English Version  
